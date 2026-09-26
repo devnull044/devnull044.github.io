@@ -85,3 +85,8 @@ youtube:
   url   : https://www.youtube.com/
   icon  : fab fa-youtube
   color : ff0000
+
+buymeacoffee:
+  url   : https://www.buymeacoffee.com/
+  icon  : fas fa-coffee
+  color : FFDD00
