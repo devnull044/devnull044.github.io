@@ -4,10 +4,14 @@
   description: I have a BS in Computer Information Systems and a MS in Cybersecurity Studies.
 
 - title: Security Consultant, Some Company, US
-  from: 2022
+  from: 2023
   to: Present
-
+  
 - title: Security Consultant, Some Company, US
+  from: 2022
+  to: 2023
+
+- title: Penetration Tester, Some Company, US
   from: 2021
   to: 2022
 
